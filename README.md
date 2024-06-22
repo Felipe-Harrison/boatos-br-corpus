@@ -1,5 +1,5 @@
 # boatos-br-corpus
-👋 Bem-vindo ao Boatos Br Corpus, uma base de dados composta de boatos `falsos` e `verdadeiros` em língua brasileira!
+👋 Bem-vindo ao Boatos Br Corpus, uma base de dados composta de boatos `falsos` e `verdadeiros` em língua Portuguesa!
 
 ## Visão Geral
 Este corpus está dividido em três pastas principais, cada uma contendo um modelo diferente da base de dados, em formato `.json`
