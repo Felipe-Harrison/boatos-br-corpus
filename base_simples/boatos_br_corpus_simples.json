@@ -1447,8 +1447,8 @@
          "Brasil",
          "Fake news"
       ],
-      "texto": "",
-      "texto-normalizado": "",
+      "texto": "Olha o helicóptero do exército salvando vidas no Rio Grande do Sul. Ah não; é o helicóptero da Havan! Desculpe, me enganei",
+      "texto-normalizado": "olha helicóptero exército salvando vidas rio grande sul ah helicóptero havan desculpe enganei",
       "rotulo": "falso"
    },
    {
@@ -1459,8 +1459,8 @@
          "Política",
          "Enganoso"
       ],
-      "texto": "",
-      "texto-normalizado": "",
+      "texto": "BOLSONARO DEBOCHA DO RS! Quer andar de jet ski lá",
+      "texto-normalizado": "bolsonaro debocha rs quer andar jet ski lá",
       "rotulo": "falso"
    },
    {
@@ -1716,17 +1716,6 @@
       "rotulo": "falso"
    },
    {
-      "url": "https://www.boatos.org/lista/20-boatos-e-fake-news-sobre-as-enchentes-no-rio-grande-do-sul.html",
-      "data-publicacao": "2024-05-13 19:01:04-03:00",
-      "origem": "boatosorg",
-      "categorias": [
-         "Lista"
-      ],
-      "texto": "",
-      "texto-normalizado": "",
-      "rotulo": "falso"
-   },
-   {
       "url": "https://www.boatos.org/brasil/lista-de-53-criancas-de-canoas-que-foram-resgatadas-e-estao-longe-dos-pais-e-real.html",
       "data-publicacao": "2024-05-11 12:34:38-03:00",
       "origem": "boatosorg",
@@ -1818,8 +1807,8 @@
          "Brasil",
          "Fake news"
       ],
-      "texto": "",
-      "texto-normalizado": "",
+      "texto": "40 aeronaves de Israel chega no Rio Grande. Israel chega no Rio Grande 😱. Veja o vídeo",
+      "texto-normalizado": "aeronaves israel chega rio grande israel chega rio grande veja vídeo",
       "rotulo": "falso"
    },
    {
@@ -1883,18 +1872,6 @@
       "rotulo": "falso"
    },
    {
-      "url": "https://www.boatos.org/brasil/governo-recusou-ajuda-do-uruguai-para-enchentes-do-rio-grande-do-sul.html",
-      "data-publicacao": "2024-05-11 15:04:40-03:00",
-      "origem": "boatosorg",
-      "categorias": [
-         "Brasil",
-         "Exagerado"
-      ],
-      "texto": "",
-      "texto-normalizado": "",
-      "rotulo": "falso"
-   },
-   {
       "url": "https://www.boatos.org/brasil/policiais-militares-do-rj-vao-ganhar-adicional-lgbtqiapn-de-r-1-500-no-salario.html",
       "data-publicacao": "2024-05-08 15:21:55-03:00",
       "origem": "boatosorg",
@@ -1919,18 +1896,6 @@
       "rotulo": "falso"
    },
    {
-      "url": "https://www.boatos.org/brasil/homem-de-florida-paulista-que-falou-que-o-rio-grande-do-sul-tem-que-se-afogar-foi-jogado-com-maos-amarradas-em-um-rio.html",
-      "data-publicacao": "2024-05-11 12:35:50-03:00",
-      "origem": "boatosorg",
-      "categorias": [
-         "Brasil",
-         "Fake news"
-      ],
-      "texto": "",
-      "texto-normalizado": "",
-      "rotulo": "falso"
-   },
-   {
       "url": "https://www.boatos.org/religiao/governo-lula-proibiu-cultos-evangelicos-em-presidios-com-resolucao-34-do-cnpcp.html",
       "data-publicacao": "2024-05-08 13:49:18-03:00",
       "origem": "boatosorg",
@@ -1940,17 +1905,6 @@
       ],
       "texto": "“É claro que o demônio pinguço não vai querer cultos em presídios! O Barba não quer perder eleitores!!”. “Lula proibiu que os evangélicos façam cultos nos presídios porque isso poderia fazer proselitismo religioso [conversão]. Evangélicos dizem que Lula traiu a bancada da bíblia. Porém, ao andar com o PT, a bancada da bíblia trai os fiéis. Comunista não se dá com religioso”.",
       "texto-normalizado": "claro demônio pinguço vai querer cultos presídios barba quer perder eleitores lula proibiu evangélicos façam cultos presídios porque poderia fazer proselitismo religioso conversão evangélicos dizem lula traiu bancada bíblia porém andar pt bancada bíblia trai fiéis comunista dá religioso",
-      "rotulo": "falso"
-   },
-   {
-      "url": "https://www.boatos.org/lista/10-boatos-e-fake-news-sobre-as-enchentes-no-rio-grande-do-sul.html",
-      "data-publicacao": "2024-05-11 16:20:35-03:00",
-      "origem": "boatosorg",
-      "categorias": [
-         "Lista"
-      ],
-      "texto": "",
-      "texto-normalizado": "",
       "rotulo": "falso"
    },
    {
@@ -2386,18 +2340,6 @@
       "rotulo": "falso"
    },
    {
-      "url": "https://www.boatos.org/entretenimento/anthony-quinn-esta-com-99-anos-e-apareceu-dancando-em-video-gravado-em-2024.html",
-      "data-publicacao": "2024-04-29 11:59:08-03:00",
-      "origem": "boatosorg",
-      "categorias": [
-         "Entretenimento",
-         "Fake news"
-      ],
-      "texto": "",
-      "texto-normalizado": "",
-      "rotulo": "falso"
-   },
-   {
       "url": "https://www.boatos.org/mundo/griffith-university-da-australia-fez-uma-concurso-sobre-o-que-politicamente-correto.html",
       "data-publicacao": "2024-04-29 11:37:36-03:00",
       "origem": "boatosorg",
@@ -2465,8 +2407,8 @@
          "Tecnologia",
          "Golpe"
       ],
-      "texto": "",
-      "texto-normalizado": "",
+      "texto": "🎈Farmácias São João – presente de dia do Trabalhador💰 💊 As Farmácias São João celebram o Dia do Trabalhador com muitos presentes",
+      "texto-normalizado": "farmácias joão presente dia trabalhador farmácias joão celebram dia trabalhador muitos presentes",
       "rotulo": "falso"
    },
    {
@@ -2501,8 +2443,8 @@
          "Saúde",
          "Golpe"
       ],
-      "texto": "",
-      "texto-normalizado": "",
+      "texto": "A “Bactéria Parasita” que está causando o engordamento em massa de milhares de brasileiros!",
+      "texto-normalizado": "bactéria parasita causando engordamento massa milhares brasileiros",
       "rotulo": "falso"
    },
    {
@@ -3053,8 +2995,8 @@
          "Política",
          "Fake news"
       ],
-      "texto": "",
-      "texto-normalizado": "",
+      "texto": "Dias Toffoli anula inelegibilidade aplicada pelo TSE, fio de esperança. Efeito águias!!! E vc acha que nada está acontecendo nos bastidores!!! Bolsonaro elegível…",
+      "texto-normalizado": "dias toffoli anula inelegibilidade aplicada tse fio esperança efeito águias vc acha nada acontecendo bastidores bolsonaro elegível",
       "rotulo": "falso"
    },
    {
@@ -3245,8 +3187,8 @@
          "Esporte",
          "Fake news"
       ],
-      "texto": "",
-      "texto-normalizado": "",
+      "texto": "Desfrutem desta maravilha, especialmente porque ambas as crianças são cegas!!",
+      "texto-normalizado": "desfrutem desta maravilha especialmente porque ambas crianças cegas",
       "rotulo": "falso"
    },
    {
@@ -3403,18 +3345,6 @@
       ],
       "texto": "“Alexandre de Moraes acaba de estabelecer multa de R$ 10.000,00 para cada tentativa de condução coercitiva de morador de rua em Bal Camboriú. Não, Moraes não deu nenhuma sugestão do que fazer com viciados violentos que praticam crimes  e ocupam espaço público indevidamente. O Ministro também não se propôs a levar nenhum para casa”. “EA NOTÍCIAS DIRETO DE BALNEÁRIO CAMBORIÚ/SC. “Os intocáveis”. Em decisão do ministro Alexandre de Moraes, STF, estabeleceu uma multa de R$10 mil, para cada condução coercitiva ou forçada. O MPSC teria alertado o STF, onde o poder publico municipal estaria supostamente promovendo uma espécie de “higienização social”. As autoridades locais, incluindo o prefeito, o secretário municipal de Segurança Pública, a secretária de Desenvolvimento e Inclusão Social e o diretor do Departamento de Promoção Social, foram intimadas a seguir estritamente essas diretrizes, sob risco de sanções financeiras pessoais e institucionais”.",
       "texto-normalizado": "alexandre moraes acaba estabelecer multa r cada tentativa condução coercitiva morador rua bal camboriú moraes deu nenhuma sugestão fazer viciados violentos praticam crimes ocupam espaço público indevidamente ministro propôs levar nenhum casa ea notícias direto balneário camboriú sc intocáveis decisão ministro alexandre moraes stf estabeleceu multa r mil cada condução coercitiva forçada mpsc alertado stf onde poder publico municipal estaria supostamente promovendo espécie higienização social autoridades locais incluindo prefeito secretário municipal segurança pública secretária desenvolvimento inclusão social diretor departamento promoção social intimadas seguir estritamente diretrizes sob risco sanções financeiras pessoais institucionais",
-      "rotulo": "falso"
-   },
-   {
-      "url": "https://www.boatos.org/mundo/foto-que-mostra-putin-montando-em-urso-e-real.html",
-      "data-publicacao": "2024-04-02 21:04:04-03:00",
-      "origem": "boatosorg",
-      "categorias": [
-         "Mundo",
-         "Fake news"
-      ],
-      "texto": "",
-      "texto-normalizado": "",
       "rotulo": "falso"
    },
    {
@@ -3605,8 +3535,8 @@
          "Política",
          "Fake news"
       ],
-      "texto": "",
-      "texto-normalizado": "",
+      "texto": "lamentável saber que vc partiu Anderson Molejo vai com Deus irmão. morreu hoje ele #luto #foyou #viralvideo",
+      "texto-normalizado": "lamentável saber vc partiu anderson molejo vai deus irmão morreu hoje luto foyou viralvideo",
       "rotulo": "falso"
    },
    {
@@ -3737,8 +3667,8 @@
          "Política",
          "Fake news"
       ],
-      "texto": "",
-      "texto-normalizado": "",
+      "texto": "Lula diz que Bolsonaro entrou de madrugada no Alvorada e devolveu os 261 móveis",
+      "texto-normalizado": "lula diz bolsonaro entrou madrugada alvorada devolveu móveis",
       "rotulo": "falso"
    },
    {
@@ -3857,8 +3787,8 @@
          "Brasil",
          "Fake news"
       ],
-      "texto": "",
-      "texto-normalizado": "",
+      "texto": "Mulher atacada por onça em Rondônia",
+      "texto-normalizado": "mulher atacada onça rondônia",
       "rotulo": "falso"
    },
    {
@@ -3895,17 +3825,6 @@
       ],
       "texto": "“Minha teoria para o sumiço de Kate Middleton é: Doença de Crohn. O hospital em que ela foi operada é especializado na doença. Talvez ela esteja usando uma bolsa de colostomia temporariamente e por isso não esteja à vontade para aparecer”. “Retirado da net e no CM também se confirma. Kate Middleton tem a Doença de Crohn. Conheço algumas pessoas que também.. Bem difícil que deve ser: ‘Depois foi confirmado o motivo que Kate Middleton estava no hospital London Clinic, é especializado na Doença de Crohn, vale lembrar que na época houve até boatos de que ela poderia estar com um câncer’”. “Kate Middleton está afastada das aparições públicas e muitos estão especulando sobre esse afastamento. O que isso interessa e tem a ver com O Caminho? Porque ela foi submetida a uma operação e, de acordo com a imprensa britânica, a teoria é que ela esteja com doença de Crohn. Ian Patrick, novo secretario particular de Kate, é membro da Junta Diretiva de Crohn e Colite da Inglaterra, uma organização que trabalha com a doença de Crohn, a colite ulcerosa e outras doenças inflamatórias do intestino, e isso pode ser um sinal de evidência. Para quem não sabe, essa doença inflamatória intestinal autoimune faz com que a pessoa sofra de sintomas como dor abdominal, diarréia grave, perda de peso, desnutrição e fadiga”.",
       "texto-normalizado": "teoria sumiço kate middleton doença crohn hospital operada especializado doença talvez usando bolsa colostomia temporariamente vontade aparecer retirado net cm confirma kate middleton doença crohn conheço algumas pessoas bem difícil deve confirmado motivo kate middleton hospital london clinic especializado doença crohn vale lembrar época boatos poderia câncer kate middleton afastada aparições públicas muitos especulando sobre afastamento interessa ver caminho porque submetida operação acordo imprensa britânica teoria doença crohn ian patrick novo secretario particular kate membro junta diretiva crohn colite inglaterra organização trabalha doença crohn colite ulcerosa outras doenças inflamatórias intestino pode sinal evidência sabe doença inflamatória intestinal autoimune faz pessoa sofra sintomas dor abdominal diarréia grave perda peso desnutrição fadiga",
-      "rotulo": "falso"
-   },
-   {
-      "url": "https://www.boatos.org/lista/algumas-fake-news-que-viralizaram-no-inicio-de-2024.html",
-      "data-publicacao": "2024-03-29 23:55:00-03:00",
-      "origem": "boatosorg",
-      "categorias": [
-         "Lista"
-      ],
-      "texto": "",
-      "texto-normalizado": "",
       "rotulo": "falso"
    },
    {
@@ -4012,8 +3931,8 @@
          "Política",
          "Fake news"
       ],
-      "texto": "",
-      "texto-normalizado": "",
+      "texto": "Moraes é surpreendido pelas Forças Especiais que chegaram para PRENDÊ-LO",
+      "texto-normalizado": "moraes surpreendido forças especiais chegaram prendê lo",
       "rotulo": "falso"
    },
    {
@@ -4254,17 +4173,6 @@
       ],
       "texto": "Israel pede desculpas oa presidente Lula  Ao contrário, ao invés de LULA se desculpar, Israel pede desculpas ao LULA , chora gado louco  Hoje, Israel voltou atrás e pediu desculpas pro Lula",
       "texto-normalizado": "israel pede desculpas oa presidente lula contrário invés lula desculpar israel pede desculpas lula chora gado louco hoje israel voltou atrás pediu desculpas pro lula",
-      "rotulo": "falso"
-   },
-   {
-      "url": "https://www.boatos.org/tecnologia/e-falso-que-seja-impossivel-recuperar-fotos-apagadas-do-iphone.html",
-      "data-publicacao": "2024-03-08 17:43:33-03:00",
-      "origem": "boatosorg",
-      "categorias": [
-         "Tecnologia"
-      ],
-      "texto": "",
-      "texto-normalizado": "",
       "rotulo": "falso"
    },
    {
@@ -4599,8 +4507,8 @@
          "Brasil",
          "Fake news"
       ],
-      "texto": "",
-      "texto-normalizado": "",
+      "texto": "Tão difícil saber que vc se foi vovó anesio. saudades #luto #vovoanesio",
+      "texto-normalizado": "tão difícil saber vc vovó anesio saudades luto vovoanesio",
       "rotulo": "falso"
    },
    {
@@ -4841,18 +4749,6 @@
       ],
       "texto": "“HAMAS QUEIMOU UM BEBÊ VIVO NO FORNO!!!!! O socorrista Eli Beer, paramédico e fundador da organização voluntária médica United Hatzalah, relatou as atrocidades cometidas durante o massacre em Israel no dia 7 de outubro. Segundo ele, terroristas do Hamas queimaram um bebê vivo em um forno”. “O pai do bebê foi morto e enquanto estupraram a mãe, colocaram o bebê no forno. O hamas deve ser destruído de uma vez por toda. Atrocidades islâmicas: bebê foi encontrado em um forno de assado até a morte por terroristas do Hamas”.",
       "texto-normalizado": "hamas queimou bebê vivo forno socorrista eli beer paramédico fundador organização voluntária médica united hatzalah relatou atrocidades cometidas durante massacre israel dia outubro segundo terroristas hamas queimaram bebê vivo forno pai bebê morto enquanto estupraram mãe colocaram bebê forno hamas deve destruído vez toda atrocidades islâmicas bebê encontrado forno assado morte terroristas hamas",
-      "rotulo": "falso"
-   },
-   {
-      "url": "https://www.boatos.org/entretenimento/lojas-francesas-jogaram-todos-livros-de-felipe-neto-lixo.html",
-      "data-publicacao": "2024-03-04 15:08:54-03:00",
-      "origem": "boatosorg",
-      "categorias": [
-         "Entretenimento",
-         "Boato sem comprovação"
-      ],
-      "texto": "",
-      "texto-normalizado": "",
       "rotulo": "falso"
    },
    {
@@ -5319,8 +5215,8 @@
          "Saúde",
          "Fake news"
       ],
-      "texto": "",
-      "texto-normalizado": "",
+      "texto": "CERVEJA DE VIAGRA. REFRESCA E LEVANTA. Atenção, RECADO IMPORTANTE",
+      "texto-normalizado": "cerveja viagra refresca levanta atenção recado importante",
       "rotulo": "falso"
    },
    {
@@ -5379,8 +5275,8 @@
          "Tecnologia",
          "Exagerado"
       ],
-      "texto": "",
-      "texto-normalizado": "",
+      "texto": "Dia 31 será o último dia de WhatsApp para quem não fizer isso",
+      "texto-normalizado": "dia último dia whatsapp fizer",
       "rotulo": "falso"
    },
    {

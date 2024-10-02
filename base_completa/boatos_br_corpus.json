@@ -1927,12 +1927,12 @@
          "Brasil",
          "Fake news"
       ],
-      "texto": "",
-      "texto-normalizado": "",
       "rotulo": "falso",
+      "texto": "Olha o helicóptero do exército salvando vidas no Rio Grande do Sul. Ah não; é o helicóptero da Havan! Desculpe, me enganei",
+      "texto-normalizado": "olha helicóptero exército salvando vidas rio grande sul ah helicóptero havan desculpe enganei",
       "num-emojis": 0,
-      "num-verbos": 0,
-      "num-palavras": 0,
+      "num-verbos": 7,
+      "num-palavras": 22,
       "num-palavras-maiusculas": 0
    },
    {
@@ -1943,13 +1943,13 @@
          "Política",
          "Enganoso"
       ],
-      "texto": "",
-      "texto-normalizado": "",
       "rotulo": "falso",
+      "texto": "BOLSONARO DEBOCHA DO RS! Quer andar de jet ski lá",
+      "texto-normalizado": "bolsonaro debocha rs quer andar jet ski lá",
       "num-emojis": 0,
       "num-verbos": 0,
-      "num-palavras": 0,
-      "num-palavras-maiusculas": 0
+      "num-palavras": 10,
+      "num-palavras-maiusculas": 4
    },
    {
       "url": "https://www.boatos.org/politica/pegaram-o-pablo-marcal-por-causa-de-acoes-dele-nas-enchentes-no-rio-grande-do-sul.html",
@@ -2288,21 +2288,6 @@
       "num-palavras-maiusculas": 0
    },
    {
-      "url": "https://www.boatos.org/lista/20-boatos-e-fake-news-sobre-as-enchentes-no-rio-grande-do-sul.html",
-      "data-publicacao": "2024-05-13 19:01:04-03:00",
-      "origem": "boatosorg",
-      "categorias": [
-         "Lista"
-      ],
-      "texto": "",
-      "texto-normalizado": "",
-      "rotulo": "falso",
-      "num-emojis": 0,
-      "num-verbos": 0,
-      "num-palavras": 0,
-      "num-palavras-maiusculas": 0
-   },
-   {
       "url": "https://www.boatos.org/brasil/lista-de-53-criancas-de-canoas-que-foram-resgatadas-e-estao-longe-dos-pais-e-real.html",
       "data-publicacao": "2024-05-11 12:34:38-03:00",
       "origem": "boatosorg",
@@ -2422,12 +2407,12 @@
          "Brasil",
          "Fake news"
       ],
-      "texto": "",
-      "texto-normalizado": "",
       "rotulo": "falso",
-      "num-emojis": 0,
-      "num-verbos": 0,
-      "num-palavras": 0,
+      "texto": "40 aeronaves de Israel chega no Rio Grande. Israel chega no Rio Grande 😱. Veja o vídeo",
+      "texto-normalizado": "aeronaves israel chega rio grande israel chega rio grande veja vídeo",
+      "num-emojis": 1,
+      "num-verbos": 3,
+      "num-palavras": 16,
       "num-palavras-maiusculas": 0
    },
    {
@@ -2511,22 +2496,6 @@
       "num-palavras-maiusculas": 13
    },
    {
-      "url": "https://www.boatos.org/brasil/governo-recusou-ajuda-do-uruguai-para-enchentes-do-rio-grande-do-sul.html",
-      "data-publicacao": "2024-05-11 15:04:40-03:00",
-      "origem": "boatosorg",
-      "categorias": [
-         "Brasil",
-         "Exagerado"
-      ],
-      "texto": "",
-      "texto-normalizado": "",
-      "rotulo": "falso",
-      "num-emojis": 0,
-      "num-verbos": 0,
-      "num-palavras": 0,
-      "num-palavras-maiusculas": 0
-   },
-   {
       "url": "https://www.boatos.org/brasil/policiais-militares-do-rj-vao-ganhar-adicional-lgbtqiapn-de-r-1-500-no-salario.html",
       "data-publicacao": "2024-05-08 15:21:55-03:00",
       "origem": "boatosorg",
@@ -2559,22 +2528,6 @@
       "num-palavras-maiusculas": 6
    },
    {
-      "url": "https://www.boatos.org/brasil/homem-de-florida-paulista-que-falou-que-o-rio-grande-do-sul-tem-que-se-afogar-foi-jogado-com-maos-amarradas-em-um-rio.html",
-      "data-publicacao": "2024-05-11 12:35:50-03:00",
-      "origem": "boatosorg",
-      "categorias": [
-         "Brasil",
-         "Fake news"
-      ],
-      "texto": "",
-      "texto-normalizado": "",
-      "rotulo": "falso",
-      "num-emojis": 0,
-      "num-verbos": 0,
-      "num-palavras": 0,
-      "num-palavras-maiusculas": 0
-   },
-   {
       "url": "https://www.boatos.org/religiao/governo-lula-proibiu-cultos-evangelicos-em-presidios-com-resolucao-34-do-cnpcp.html",
       "data-publicacao": "2024-05-08 13:49:18-03:00",
       "origem": "boatosorg",
@@ -2589,21 +2542,6 @@
       "num-verbos": 5,
       "num-palavras": 62,
       "num-palavras-maiusculas": 3
-   },
-   {
-      "url": "https://www.boatos.org/lista/10-boatos-e-fake-news-sobre-as-enchentes-no-rio-grande-do-sul.html",
-      "data-publicacao": "2024-05-11 16:20:35-03:00",
-      "origem": "boatosorg",
-      "categorias": [
-         "Lista"
-      ],
-      "texto": "",
-      "texto-normalizado": "",
-      "rotulo": "falso",
-      "num-emojis": 0,
-      "num-verbos": 0,
-      "num-palavras": 0,
-      "num-palavras-maiusculas": 0
    },
    {
       "url": "https://www.boatos.org/politica/lula-disse-que-10-de-casa-r-216-mil-e-igual-r-216.html",
@@ -3182,22 +3120,6 @@
       "num-palavras-maiusculas": 27
    },
    {
-      "url": "https://www.boatos.org/entretenimento/anthony-quinn-esta-com-99-anos-e-apareceu-dancando-em-video-gravado-em-2024.html",
-      "data-publicacao": "2024-04-29 11:59:08-03:00",
-      "origem": "boatosorg",
-      "categorias": [
-         "Entretenimento",
-         "Fake news"
-      ],
-      "texto": "",
-      "texto-normalizado": "",
-      "rotulo": "falso",
-      "num-emojis": 0,
-      "num-verbos": 0,
-      "num-palavras": 0,
-      "num-palavras-maiusculas": 0
-   },
-   {
       "url": "https://www.boatos.org/mundo/griffith-university-da-australia-fez-uma-concurso-sobre-o-que-politicamente-correto.html",
       "data-publicacao": "2024-04-29 11:37:36-03:00",
       "origem": "boatosorg",
@@ -3285,12 +3207,12 @@
          "Tecnologia",
          "Golpe"
       ],
-      "texto": "",
-      "texto-normalizado": "",
+      "texto": "🎈Farmácias São João – presente de dia do Trabalhador💰 💊 As Farmácias São João celebram o Dia do Trabalhador com muitos presentes",
+      "texto-normalizado": "farmácias joão presente dia trabalhador farmácias joão celebram dia trabalhador muitos presentes",
       "rotulo": "falso",
-      "num-emojis": 0,
-      "num-verbos": 0,
-      "num-palavras": 0,
+      "num-emojis": 3,
+      "num-verbos": 3,
+      "num-palavras": 22,
       "num-palavras-maiusculas": 0
    },
    {
@@ -3333,13 +3255,13 @@
          "Saúde",
          "Golpe"
       ],
-      "texto": "",
-      "texto-normalizado": "",
+      "texto": "A “Bactéria Parasita” que está causando o engordamento em massa de milhares de brasileiros!",
+      "texto-normalizado": "bactéria parasita causando engordamento massa milhares brasileiros",
       "rotulo": "falso",
       "num-emojis": 0,
       "num-verbos": 0,
-      "num-palavras": 0,
-      "num-palavras-maiusculas": 0
+      "num-palavras": 14,
+      "num-palavras-maiusculas": 1
    },
    {
       "url": "https://www.boatos.org/politica/lula-inaugurou-obra-de-transposicao-do-sao-francisco-ja-inaugurada-por-bolsonaro.html",
@@ -4069,13 +3991,13 @@
          "Política",
          "Fake news"
       ],
-      "texto": "",
-      "texto-normalizado": "",
+      "texto": "Dias Toffoli anula inelegibilidade aplicada pelo TSE, fio de esperança. Efeito águias!!! E vc acha que nada está acontecendo nos bastidores!!! Bolsonaro elegível…",
+      "texto-normalizado": "dias toffoli anula inelegibilidade aplicada tse fio esperança efeito águias vc acha nada acontecendo bastidores bolsonaro elegível",
       "rotulo": "falso",
       "num-emojis": 0,
-      "num-verbos": 0,
-      "num-palavras": 0,
-      "num-palavras-maiusculas": 0
+      "num-verbos": 1,
+      "num-palavras": 23,
+      "num-palavras-maiusculas": 2
    },
    {
       "url": "https://www.boatos.org/politica/elon-musk-entregou-documentos-a-autoridades-dos-eua-que-incriminam-alexandre-de-moraes.html",
@@ -4325,12 +4247,12 @@
          "Esporte",
          "Fake news"
       ],
-      "texto": "",
-      "texto-normalizado": "",
+      "texto": "Desfrutem desta maravilha, especialmente porque ambas as crianças são cegas!!",
+      "texto-normalizado": "desfrutem desta maravilha especialmente porque ambas crianças cegas",
       "rotulo": "falso",
       "num-emojis": 0,
       "num-verbos": 0,
-      "num-palavras": 0,
+      "num-palavras": 10,
       "num-palavras-maiusculas": 0
    },
    {
@@ -4540,22 +4462,6 @@
       "num-verbos": 15,
       "num-palavras": 143,
       "num-palavras-maiusculas": 13
-   },
-   {
-      "url": "https://www.boatos.org/mundo/foto-que-mostra-putin-montando-em-urso-e-real.html",
-      "data-publicacao": "2024-04-02 21:04:04-03:00",
-      "origem": "boatosorg",
-      "categorias": [
-         "Mundo",
-         "Fake news"
-      ],
-      "texto": "",
-      "texto-normalizado": "",
-      "rotulo": "falso",
-      "num-emojis": 0,
-      "num-verbos": 0,
-      "num-palavras": 0,
-      "num-palavras-maiusculas": 0
    },
    {
       "url": "https://www.boatos.org/tecnologia/voce-ganha-emojis-e-teclado-3d-se-compartilhar-mensagem-de-aniversario-do-whatsapp.html",
@@ -4805,12 +4711,12 @@
          "Política",
          "Fake news"
       ],
-      "texto": "",
-      "texto-normalizado": "",
+      "texto": "lamentável saber que vc partiu Anderson Molejo vai com Deus irmão. morreu hoje ele #luto #foyou #viralvideo",
+      "texto-normalizado": "lamentável saber vc partiu anderson molejo vai deus irmão morreu hoje luto foyou viralvideo",
       "rotulo": "falso",
       "num-emojis": 0,
       "num-verbos": 0,
-      "num-palavras": 0,
+      "num-palavras": 17,
       "num-palavras-maiusculas": 0
    },
    {
@@ -4981,12 +4887,12 @@
          "Política",
          "Fake news"
       ],
-      "texto": "",
-      "texto-normalizado": "",
+      "texto": "Lula diz que Bolsonaro entrou de madrugada no Alvorada e devolveu os 261 móveis",
+      "texto-normalizado": "lula diz bolsonaro entrou madrugada alvorada devolveu móveis",
       "rotulo": "falso",
       "num-emojis": 0,
-      "num-verbos": 0,
-      "num-palavras": 0,
+      "num-verbos": 1,
+      "num-palavras": 14,
       "num-palavras-maiusculas": 0
    },
    {
@@ -5141,13 +5047,13 @@
          "Brasil",
          "Fake news"
       ],
-      "texto": "",
-      "texto-normalizado": "",
+      "texto": "Mulher atacada por onça em Rondônia",
+      "texto-normalizado": "mulher atacada onça rondônia",
       "rotulo": "falso",
       "num-emojis": 0,
       "num-verbos": 0,
-      "num-palavras": 0,
-      "num-palavras-maiusculas": 0
+      "num-palavras": 6,
+      "num-palavras-maiusculas": 2
    },
    {
       "url": "https://www.boatos.org/brasil/policia-de-chapadao-do-ceu-goias-matou-bandidos-que-foram-assaltar-um-banco.html",
@@ -5196,21 +5102,6 @@
       "num-verbos": 19,
       "num-palavras": 223,
       "num-palavras-maiusculas": 4
-   },
-   {
-      "url": "https://www.boatos.org/lista/algumas-fake-news-que-viralizaram-no-inicio-de-2024.html",
-      "data-publicacao": "2024-03-29 23:55:00-03:00",
-      "origem": "boatosorg",
-      "categorias": [
-         "Lista"
-      ],
-      "texto": "",
-      "texto-normalizado": "",
-      "rotulo": "falso",
-      "num-emojis": 0,
-      "num-verbos": 0,
-      "num-palavras": 0,
-      "num-palavras-maiusculas": 0
    },
    {
       "url": "https://www.boatos.org/brasil/luiza-trajano-processada-itau-por-causa-investimento-anunciou-tv.html",
@@ -5348,13 +5239,13 @@
          "Política",
          "Fake news"
       ],
-      "texto": "",
-      "texto-normalizado": "",
+      "texto": "Moraes é surpreendido pelas Forças Especiais que chegaram para PRENDÊ-LO",
+      "texto-normalizado": "moraes surpreendido forças especiais chegaram prendê lo",
       "rotulo": "falso",
       "num-emojis": 0,
       "num-verbos": 0,
-      "num-palavras": 0,
-      "num-palavras-maiusculas": 0
+      "num-palavras": 10,
+      "num-palavras-maiusculas": 2
    },
    {
       "url": "https://www.boatos.org/esporte/fotos-casamento-neymar-bruna-marquezine-sao-divulgadas-mae-jogador.html",
@@ -5675,21 +5566,6 @@
       "num-verbos": 1,
       "num-palavras": 32,
       "num-palavras-maiusculas": 2
-   },
-   {
-      "url": "https://www.boatos.org/tecnologia/e-falso-que-seja-impossivel-recuperar-fotos-apagadas-do-iphone.html",
-      "data-publicacao": "2024-03-08 17:43:33-03:00",
-      "origem": "boatosorg",
-      "categorias": [
-         "Tecnologia"
-      ],
-      "texto": "",
-      "texto-normalizado": "",
-      "rotulo": "falso",
-      "num-emojis": 0,
-      "num-verbos": 0,
-      "num-palavras": 0,
-      "num-palavras-maiusculas": 0
    },
    {
       "url": "https://www.boatos.org/esporte/psg-e-qatar-sports-vao-comprar-o-esporte-clube-vitoria.html",
@@ -6131,13 +6007,13 @@
          "Brasil",
          "Fake news"
       ],
-      "texto": "",
-      "texto-normalizado": "",
+      "texto": "Tão difícil saber que vc se foi vovó anesio. saudades #luto #vovoanesio",
+      "texto-normalizado": "tão difícil saber vc vovó anesio saudades luto vovoanesio",
       "rotulo": "falso",
       "num-emojis": 0,
       "num-verbos": 0,
-      "num-palavras": 0,
-      "num-palavras-maiusculas": 0
+      "num-palavras": 12,
+      "num-palavras-maiusculas": 1
    },
    {
       "url": "https://www.boatos.org/saude/anvisa-aprovou-suplemento-detox-figen-gold-outros-remedio-emagrecer-acabar-gordura-figado.html",
@@ -6458,22 +6334,6 @@
       "num-verbos": 12,
       "num-palavras": 89,
       "num-palavras-maiusculas": 10
-   },
-   {
-      "url": "https://www.boatos.org/entretenimento/lojas-francesas-jogaram-todos-livros-de-felipe-neto-lixo.html",
-      "data-publicacao": "2024-03-04 15:08:54-03:00",
-      "origem": "boatosorg",
-      "categorias": [
-         "Entretenimento",
-         "Boato sem comprovação"
-      ],
-      "texto": "",
-      "texto-normalizado": "",
-      "rotulo": "falso",
-      "num-emojis": 0,
-      "num-verbos": 0,
-      "num-palavras": 0,
-      "num-palavras-maiusculas": 0
    },
    {
       "url": "https://www.boatos.org/saude/borra-de-cafe-serve-como-repelente-mosquito-dengue.html",
@@ -7091,13 +6951,13 @@
          "Saúde",
          "Fake news"
       ],
-      "texto": "",
-      "texto-normalizado": "",
+      "texto": "CERVEJA DE VIAGRA. REFRESCA E LEVANTA. Atenção, RECADO IMPORTANTE",
+      "texto-normalizado": "cerveja viagra refresca levanta atenção recado importante",
       "rotulo": "falso",
       "num-emojis": 0,
       "num-verbos": 0,
-      "num-palavras": 0,
-      "num-palavras-maiusculas": 0
+      "num-palavras": 9,
+      "num-palavras-maiusculas": 8
    },
    {
       "url": "https://www.boatos.org/tecnologia/havan-esta-vendendo-iphone-em-promocao-por-ordem-procon.html",
@@ -7171,12 +7031,12 @@
          "Tecnologia",
          "Exagerado"
       ],
-      "texto": "",
-      "texto-normalizado": "",
+      "texto": "Dia 31 será o último dia de WhatsApp para quem não fizer isso",
+      "texto-normalizado": "dia último dia whatsapp fizer",
       "rotulo": "falso",
       "num-emojis": 0,
       "num-verbos": 0,
-      "num-palavras": 0,
+      "num-palavras": 13,
       "num-palavras-maiusculas": 0
    },
    {
