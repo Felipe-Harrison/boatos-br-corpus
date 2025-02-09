@@ -49,6 +49,8 @@ O web-crawler coleta dados de sites especializados em identificar e desmentir fa
 
 Este foi um projeto de Conclusão de curso da [Universidade Federal de Uberlândia (UFU)](https://facom.ufu.br/graduacao/sistemas-de-informacao-campus-santa-monica)
 
+<a href="https://repositorio.ufu.br/handle/123456789/44215" target="_blank"><img src="https://img.shields.io/badge/TCC-007DBA?style=for-the-badge&logo=googledocs&logoColor=white" target="_blank"></a>  
+
 ## 🧑‍💻 Para devs
 
 Na branch `corpus-processador` é possível encontrar um arquivo no caminho `./Realimentador/boatosbrcorpus_realimentador.ipynb`, que é responsável por realimentar essa base de dados e contém toda a lógica de construção do corpus.
